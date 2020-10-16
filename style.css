@@ -1,0 +1,20 @@
+.square {
+    display: inline-block;
+    width:200px;
+    height:200px;
+    background-color:#ccc;
+    cursor:pointer;
+  }
+  
+  .blue {
+    background-color:blue;
+  }
+  .red {
+    background-color:red;
+  }
+  .green {
+    background-color:green;
+  }
+  .yellow {
+    background-color:yellow;
+  }
